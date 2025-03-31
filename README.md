@@ -8,7 +8,8 @@ This repository showcases my HackerRank Certifications, which demonstrate my pro
 ## 🏅 Certifications Earned  
 🔹 **[HackerRank SQL (Basic) Certification](https://www.hackerrank.com/certificates/iframe/0ecb64e4dbf2)**  
 🔹 **[HackerRank Python (Basic) Certification](https://www.hackerrank.com/certificates/iframe/41eb2474b990)**  
-🔹 **[HackerRank Python (Intermediate) Certification(https://www.hackerrank.com/certificates/7b8a0d475974)**
+🔹 **[HackerRank Python (Intermediate) Certification](https://www.hackerrank.com/certificates/7b8a0d475974)**  
+
 ---
 
 ## 📚 Skills Covered  
@@ -20,14 +21,19 @@ This repository showcases my HackerRank Certifications, which demonstrate my pro
 ✅ Aggregating data using **COUNT, SUM, AVG, MIN, MAX**  
 ✅ Using **GROUP BY** and **HAVING** for grouped data  
 
+### 🔹 SQL (Intermediate)  
+✅ Complex joins including **INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN**  
+✅ Working with **window functions** such as **RANK(), DENSE_RANK(), ROW_NUMBER()**  
+✅ Using **CTEs (Common Table Expressions) and subqueries**  
+✅ Advanced **aggregation functions** and **filtering techniques**  
+✅ Data manipulation using **UPDATE, DELETE, INSERT**  
+
 ### 🔹 Python (Basic)  
 ✅ Data types and variables  
 ✅ Conditional statements and loops  
 ✅ Functions and built-in methods  
 ✅ String manipulation  
 ✅ Basic data structures (lists, tuples, dictionaries)  
-
----
 
  
 
