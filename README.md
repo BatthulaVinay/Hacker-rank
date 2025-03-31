@@ -25,8 +25,6 @@ This repository showcases my HackerRank Certifications, which demonstrate my pro
 ✅ Complex joins including **INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN**  
 ✅ Working with **window functions** such as **RANK(), DENSE_RANK(), ROW_NUMBER()**  
 ✅ Using **CTEs (Common Table Expressions) and subqueries**  
-✅ Advanced **aggregation functions** and **filtering techniques**  
-✅ Data manipulation using **UPDATE, DELETE, INSERT**  
 
 ### 🔹 Python (Basic)  
 ✅ Data types and variables  
